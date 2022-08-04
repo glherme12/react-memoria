@@ -1,0 +1,17 @@
+[33mcommit 334e4099e9bbf23c2ea5e59137b7c180a423b0ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Guilherme Santos <guilhermesantos12.ti@gmail.com>
+Date:   Thu Aug 4 18:50:37 2022 -0300
+
+    Finalização do projeto
+
+[33mcommit 790ea41bcc6e7bc9d9716052d6dc6fdd7a99787d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Guilherme Santos <guilhermesantos12.ti@gmail.com>
+Date:   Tue Jul 26 11:20:29 2022 -0300
+
+    erro no src
+
+[33mcommit 060d01c2d4815e616ac1e48f2ac1913265e12235[m
+Author: Guilherme Santos <guilhermesantos12.ti@gmail.com>
+Date:   Fri Jul 22 12:18:35 2022 -0300
+
+    Initialize project using Create React App
